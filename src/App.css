@@ -1,0 +1,18 @@
+h2{
+  font-size: 40px;
+  color: whitesmoke;
+}
+
+h5{
+  font-size: 17px;
+  color: whitesmoke;
+}
+h6{
+  font-size: 15px;
+  color: whitesmoke;
+}
+
+.contained{
+  max-width: 70%;
+  margin: auto;
+}
